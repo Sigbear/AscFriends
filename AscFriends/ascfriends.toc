@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: AscFriends
+## Notes: Adds an invite button to each friend in the friends list for convenience.
+## Version: 1.0
+## Author: Sibbi
+## OptionalDeps: Ace3
+
+Libs\LibStub\LibStub.lua
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+
+ascfriends.lua
